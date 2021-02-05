@@ -1,0 +1,1 @@
+slmgr /ipk WNMTR-4C88C-JK8YV-HQ7T2-76DF9
